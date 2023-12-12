@@ -33,7 +33,7 @@ class BuscaEndereco:
         )
 
 cep ="01001000"
-#cep = "09330646"
+#cep = "01503902"
 obj_cep = BuscaEndereco(cep)
 print(obj_cep)
 
